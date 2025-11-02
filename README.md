@@ -1,54 +1,66 @@
-# Hi, I'm Samuel Teixeira 👋
+<h1 align="center">👋 Hi, I'm <strong>Samuel Teixeira</strong></h1>
 
-**Software Engineer** focused on **Web and Mobile Development**, specialized in building **scalable, high-performance applications** using **Flutter**, **Vue.js**, and modern architectures.
+<p align="center">
+  <strong>Software Engineer</strong> specialized in <strong>Web and Mobile Development</strong><br>
+  Building <em>scalable, high-performance applications</em> with modern technologies and clean architecture.
+</p>
 
-I have experience leading **frontend refactors**, defining **clean structures**, and integrating **complex APIs** in cross-functional teams.  
-My work emphasizes **UX, performance**, and **business impact**, collaborating with teams across **Brazil, the United States, and Africa**.
+---
+
+### 🧠 About Me
+I’m a **Software Engineer** focused on creating fast, intuitive digital products.  
+Experienced in **Frontend**, **Mobile**, and **System Integration**, I enjoy turning ideas into reliable, elegant solutions.
+
+I’ve contributed to international projects in **Brazil**, the **US**, and **Africa**, working closely with product and backend teams to deliver impact through technology.
 
 ---
 
 ### 🧩 Tech Stack
-**Frontend:** Vue.js, TypeScript, Tailwind CSS, Vite, HTML, CSS, JavaScript  
-**Mobile:** Flutter, Dart  
-**Backend:** Laravel, PHP, Java, Node.js, Python  
-**Tools:** REST APIs, Git, CI/CD, Docker, AWS, Agile Delivery, Clean Architecture  
+<div align="center">
+
+| **Frontend** | **Mobile** | **Backend** | **Tools & DevOps** |
+|---------------|-------------|--------------|--------------------|
+| Vue.js · TypeScript · Tailwind CSS · Vite | Flutter · Dart | Laravel · PHP · Java · Node.js · Python | REST APIs · Docker · AWS · CI/CD · Git · Clean Architecture |
+
+</div>
 
 ---
 
 ### 💼 Professional Experience
-**Finoo (United States)**  
-Software Engineer — Mar 2024 – Present  
+**🇺🇸 Finoo** — Software Engineer _(Mar 2024 – Present)_  
 Refactored and modernized the frontend architecture using Vue.js, Tailwind, and Laravel.  
-Delivered dashboards and real-time API integrations that improved product stability and user retention by 35%.
+Delivered real-time dashboards and integrations that increased stability and user retention by **35%**.
 
-**Tiye (Malawi)**  
-Software Engineer — Feb 2025 – Jun 2025  
-Planned and implemented mobile architecture in Flutter, ensuring scalability and excellent UX.  
-Optimized API efficiency and mentored junior developers.
+**🇲🇼 Tiye** — Software Engineer _(Feb 2025 – Jun 2025)_  
+Planned and implemented mobile architecture in Flutter.  
+Enhanced API efficiency and mentored junior developers.
 
-**FPP (United States)**  
-Software Engineer — Apr 2025 – Sep 2025  
+**🇺🇸 FPP** — Software Engineer _(Apr 2025 – Sep 2025)_  
 Developed and maintained Vue.js web apps with Laravel Blade and Tailwind CSS.  
-Reduced bug recurrence by 25% through refactors.
+Reduced bug recurrence by **25%** through refactor initiatives and CI/CD improvements.
 
 ---
 
 ### 🚀 Projects
-- **EcoTrack** – Sustainable mobility API built with Java 17 and Spring Boot (governance and trip management modules).  
-- **Startup One** – FIAP innovation project integrating APIs, CI/CD, and real-time analytics dashboards.  
-- **Letterboxd Ratings Script** – Tampermonkey script aggregating IMDb, Metacritic, and Rotten Tomatoes ratings.
+- **EcoTrack** — Sustainable mobility API built with Java 17 and Spring Boot (governance & trip modules).  
+- **Startup One** — FIAP innovation project integrating APIs, CI/CD, and real-time analytics dashboards.  
+- **Letterboxd Ratings Script** — Tampermonkey script aggregating IMDb, Metacritic, and Rotten Tomatoes ratings.
 
 ---
 
 ### 🎓 Education
-- **FIAP** – Systems Analysis and Development, 2025  
-- **ETEC Vasco Antônio Venchiarutti** – Technical Degree in Systems Development, 2021  
+- 🎓 **FIAP** – Systems Analysis and Development (2025)  
+- 💻 **ETEC Vasco Antônio Venchiarutti** – Technical Degree in Systems Development (2021)
 
 ---
 
-### 📬 Get in Touch
-[LinkedIn](https://www.linkedin.com/in/samdevtx) • [GitHub](https://github.com/samdevtx) • [Email](mailto:samuelteixeira010@gmail.com)
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/samdevtx" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/samdevtx" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:samuelteixeira010@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-_“Less complexity, more clarity — in code and in life.”_
+<p align="center"><em>"Less complexity, more clarity — in code and in life."</em></p>
