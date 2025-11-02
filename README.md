@@ -31,13 +31,14 @@ I’ve contributed to international projects in **Brazil**, the **US**, and **Af
 Refactored and modernized the frontend architecture using Vue.js, Tailwind, and Laravel.  
 Delivered real-time dashboards and integrations that increased stability and user retention by **35%**.
 
+**🇺🇸 FPP** — Software Engineer _(Apr 2025 – Sep 2025)_  
+Developed and maintained Vue.js web apps with Laravel Blade and Tailwind CSS.  
+Reduced bug recurrence by **25%** through refactor initiatives.
+
 **🇲🇼 Tiye** — Software Engineer _(Feb 2025 – Jun 2025)_  
 Planned and implemented mobile architecture in Flutter.  
 Enhanced API efficiency and mentored junior developers.
 
-**🇺🇸 FPP** — Software Engineer _(Apr 2025 – Sep 2025)_  
-Developed and maintained Vue.js web apps with Laravel Blade and Tailwind CSS.  
-Reduced bug recurrence by **25%** through refactor initiatives and CI/CD improvements.
 
 ---
 
