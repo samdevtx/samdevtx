@@ -1,57 +1,52 @@
 <h1 align="center">👋 Hi, I'm <strong>Samuel Teixeira</strong></h1>
 
 <p align="center">
-  <strong>Software Engineer</strong> specialized in <strong>Web and Mobile Development</strong><br>
-  Building <em>scalable, high-performance applications</em> with modern technologies and clean architecture.
+  <strong>Software Engineer</strong> specialized in <strong>Frontend & Mobile</strong><br>
+  Building <em>production-ready web and mobile apps</em> with modern tooling, strong UI craft, and scalable integrations.
 </p>
 
 ---
 
 ### 🧠 About Me
-I’m a **Software Engineer** focused on creating fast, intuitive digital products.  
-Experienced in **Frontend**, **Mobile**, and **System Integration**, I enjoy turning ideas into reliable, elegant solutions.
+I’m a **Software Engineer** with **2+ years** building **mobile apps and web platforms in production** for early-stage international startups (fintech and SaaS).  
+I enjoy turning product requirements into **fast, intuitive interfaces**, and shipping reliable solutions through clean code, pragmatic architecture, and strong collaboration.
 
-I’ve contributed to international projects in **Brazil**, the **US**, and **Africa**, working closely with product and backend teams to deliver impact through technology.
+I’ve contributed to teams across **Brazil, the US, and Malawi**, working closely with product, design, and backend to deliver measurable impact.
 
 ---
 
 ### 🧩 Tech Stack
 <div align="center">
 
-| **Frontend** | **Mobile** | **Backend** | **Tools & DevOps** |
-|---------------|-------------|--------------|--------------------|
-| Vue.js · TypeScript · Tailwind CSS · Vite | Flutter · Dart | Laravel · PHP · Java · Node.js · Python | REST APIs · Docker · AWS · CI/CD · Git · Clean Architecture |
+| **Frontend** | **Mobile** | **Backend** | **Tools & Process** |
+|---------------|-------------|--------------|---------------------|
+| Vue.js · TypeScript · JavaScript · Tailwind CSS · Vite · Laravel Blade | Flutter · Dart | Laravel (PHP) · REST APIs | Git · Agile (Scrum/Kanban) · Performance (Lighthouse/PageSpeed) |
 
 </div>
 
 ---
 
 ### 💼 Professional Experience
-**🇺🇸 Finoo** — Software Engineer _(Mar 2024 – Present)_  
-Refactored and modernized the frontend architecture using Vue.js, Tailwind, and Laravel.  
-Delivered real-time dashboards and integrations that increased stability and user retention by **35%**.
+**🇺🇸 Finoo Inc. (Fintech)** — Software Engineer _(Mar 2024 – Dec 2025)_  
+- Built and published a cross-platform **Flutter** app for students to manage funds, exchange currency, and make payments (**500+ downloads** on Google Play).  
+- Implemented key flows (currency exchange, receipts, alerts/notifications) and integrated **REST APIs** for real-time experiences.  
+- Delivered internal web dashboards and operational surfaces using **Vue.js + Tailwind**.  
+- Product traction: **Startupbootcamp reported R$50,000 transacted in < 1 month** after launch.
 
 **🇺🇸 FPP** — Software Engineer _(Apr 2025 – Sep 2025)_  
-Developed and maintained Vue.js web apps with Laravel Blade and Tailwind CSS.  
-Reduced bug recurrence by **25%** through refactor initiatives.
+- Reworked legacy marketing pages and registration flows using **Laravel Blade + Tailwind**, integrating **Vue + Vite** into a legacy Laravel monorepo.  
+- Improved **PageSpeed Insights (Lighthouse)** from **43 → 67 (mobile)** and **17 → 90 (desktop)**, with significant gains in accessibility / best practices / SEO.  
+- Defined reusable UI patterns and shipped multiple redesigns under tight deadlines with high attention to detail.
 
-**🇲🇼 Tiye** — Software Engineer _(Feb 2025 – Jun 2025)_  
-Planned and implemented mobile architecture in Flutter.  
-Enhanced API efficiency and mentored junior developers.
-
-
----
-
-### 🚀 Projects
-- **EcoTrack** — Sustainable mobility API built with Java 17 and Spring Boot (governance & trip modules).  
-- **Startup One** — FIAP innovation project integrating APIs, CI/CD, and real-time analytics dashboards.  
-- **Letterboxd Ratings Script** — Tampermonkey script aggregating IMDb, Metacritic, and Rotten Tomatoes ratings.
+**🇲🇼 Tiye (Super-app / Marketplace)** — Software Engineer (Part-time/Contract) _(Feb 2025 – Jun 2025)_  
+- Led the initial **Flutter** mobile frontend architecture (navigation, UI patterns, UX flows).  
+- Delivered **REST API** integrations for marketplace and services modules.
 
 ---
 
 ### 🎓 Education
-- 🎓 **FIAP** – Systems Analysis and Development (2025)  
-- 💻 **ETEC Vasco Antônio Venchiarutti** – Technical Degree in Systems Development (2021)
+- 🎓 **FIAP** – Systems Analysis and Development (2024–2025)  
+- 💻 **ETEC Vasco Antônio Venchiarutti** – Technical Degree in Systems Development (2019–2021)
 
 ---
 
