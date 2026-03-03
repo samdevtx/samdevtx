@@ -52,7 +52,7 @@ I’ve contributed to teams across **Brazil, the US, and Malawi**, working close
 
 ## 💼 Professional Experience
 
-### 🧠 Eksy | Social App for Personal Trainers | Software Engineer | Contract
+### 🧠 Eksy | Social App for Personal Training Students | Software Engineer | Contract
 - Building a Flutter mobile app focused on scalable architecture, UI consistency, and clean navigation patterns.
 - Implementing feature modules and REST API integrations with an emphasis on reliability and maintainability.
 - Improving developer experience through reusable components, shared theming, and pragmatic code standards.
