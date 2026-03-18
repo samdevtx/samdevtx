@@ -1,13 +1,13 @@
 <div align="center">
 
-```
+<pre>
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
 ║        flutter build apk --release                       ║
 ║        ✓ Built build/app/outputs/flutter-apk/            ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
-```
+</pre>
 
 # Samuel Teixeira
 
@@ -117,7 +117,7 @@ LANGUAGES=Portuguese (native), English (advanced)
 
 <div align="center">
 
-*"Less complexity, more clarity — in code and in life."*
+*"Less complexity, more clarity. In code and in life."*
 
 **[samdevtx.me](https://samdevtx.me) · [linkedin.com/in/samdevtx](https://linkedin.com/in/samdevtx)**
 
